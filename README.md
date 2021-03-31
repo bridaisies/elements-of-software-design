@@ -1,4 +1,4 @@
-# cs313e elements of software design at ut austin
+# elements of software design at ut austin
 
 brionna huynh\
 email: brionna@utexas.edu\
